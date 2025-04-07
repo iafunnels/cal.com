@@ -79,8 +79,8 @@ export const PUBLIC_QUICK_AVAILABILITY_ROLLOUT =
 
 /** @deprecated use `WEBAPP_URL` */
 export const NEXT_PUBLIC_BASE_URL = process.env.NEXT_PUBLIC_WEBAPP_URL || `https://${process.env.VERCEL_URL}`;
-export const LOGO = "/calcom-logo-white-word.svg";
-export const LOGO_ICON = "/cal-com-icon-white.svg";
+export const LOGO = "https://scontent.fagt3-1.fna.fbcdn.net/v/t39.30808-6/482260487_122121394760738208_6574085961247251100_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=6vYEA3m17tkQ7kNvwHoCeen&_nc_oc=AdkNo0ujl5ttLUHGMl3m8Y8Cx4SV0DlVXfkd0-hl-p7ly7-LwrqAO3uVeyKBI2-7mE0&_nc_zt=23&_nc_ht=scontent.fagt3-1.fna&_nc_gid=SoRrcogv-RxKEV0ipocBaA&oh=00_AfGBAbW0euciLKXtaxCzRyCVNywhByck40Bxo2LOCk4qbg&oe=67F9138E";
+export const LOGO_ICON = "https://scontent.fagt3-1.fna.fbcdn.net/v/t39.30808-6/482260487_122121394760738208_6574085961247251100_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=6vYEA3m17tkQ7kNvwHoCeen&_nc_oc=AdkNo0ujl5ttLUHGMl3m8Y8Cx4SV0DlVXfkd0-hl-p7ly7-LwrqAO3uVeyKBI2-7mE0&_nc_zt=23&_nc_ht=scontent.fagt3-1.fna&_nc_gid=SoRrcogv-RxKEV0ipocBaA&oh=00_AfGBAbW0euciLKXtaxCzRyCVNywhByck40Bxo2LOCk4qbg&oe=67F9138E";
 export const AVATAR_FALLBACK = "/avatar.svg";
 export const FAVICON_16 = "/favicon-16x16.png";
 export const FAVICON_32 = "/favicon-32x32.png";
